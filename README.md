@@ -1,5 +1,6 @@
 ![banner](http://collabnix.com/wp-content/uploads/2015/07/DockerEco.jpg)
-# docker-demo
+# Everything you Always Wanted to Know About Docker\*
+### \*But Were Afraid to Ask
 Containers, composing applications out of them, and managing clusters of applications.
 
 ## Intro
