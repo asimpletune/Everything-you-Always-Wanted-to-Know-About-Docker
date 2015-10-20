@@ -133,7 +133,7 @@ Let's break this down real quickly
 And now let's test it out
 
 ```bash
-URL=$(machine ip dev):3000
+URL=$(docker-machine ip dev):3000
 echo $URL | pbcopy
 curl $URL
 ```
