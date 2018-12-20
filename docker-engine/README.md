@@ -1,4 +1,4 @@
-![docker-engine-banner](http://blog.docker.com/wp-content/uploads/2013/08/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png)
+![docker-engine-banner](../media/docker.png?raw=true)
 
 # docker-engine
 *Note: before reading this talk, you should read the talk on [getting started](../README.md)*
