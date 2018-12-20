@@ -39,11 +39,11 @@ We'll talk about briefly about what each of these do, but first let's try to get
 
 #### Docker hosted bare-metal (Linux)
 
-![docker on bare metal](./media/linux_docker_host.svg?raw=true)
+![docker on bare metal](./media/linux_docker_host.svg?sanitize=true)
 
 #### Docker hosted on a VM (Linux), hosted on bare-metal (OS X)
 
-![docker on OS X](./media/mac_docker_host.svg?raw=true)
+![docker on OS X](./media/mac_docker_host.svg?sanitize=true)
 
 #### The docker runtime (i.e. docker-engine)
 This is what actually allows you to run on containers, which you can think of as "processes".
