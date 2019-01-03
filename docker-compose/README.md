@@ -1,4 +1,4 @@
-![docker-compose-banner](https://blog.docker.com/media/octopus_blocks_die.png)
+![docker-compose-banner](../media/octopus_blocks_die.png?raw=true)
 
 # docker-compose
 *Note: before reading this you should read the talk on [docker-engine](../docker-engine/README.md), first.*

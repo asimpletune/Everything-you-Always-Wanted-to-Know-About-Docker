@@ -1,4 +1,4 @@
-![banner](http://collabnix.com/wp-content/uploads/2015/07/DockerEco.jpg)
+![banner](./media/DockerEco.jpg?raw=true)
 # Everything you Always Wanted to Know About Docker\*
 ### \*But Were Afraid to Ask
 Containers, composing applications out of them, and managing clusters of applications.
@@ -39,11 +39,11 @@ We'll talk about briefly about what each of these do, but first let's try to get
 
 #### Docker hosted bare-metal (Linux)
 
-![docker on bare metal](https://docs.docker.com/installation/images/linux_docker_host.svg)
+![docker on bare metal](./media/linux_docker_host.svg?sanitize=true)
 
 #### Docker hosted on a VM (Linux), hosted on bare-metal (OS X)
 
-![docker on OS X](https://docs.docker.com/installation/images/mac_docker_host.svg)
+![docker on OS X](./media/mac_docker_host.svg?sanitize=true)
 
 #### The docker runtime (i.e. docker-engine)
 This is what actually allows you to run on containers, which you can think of as "processes".
@@ -57,7 +57,7 @@ This is what lets you interface with the docker daemon.
 #### The docker host
 This is what "hosts" the docker daemon, but the client doesn't have to live on the same host (or even on the same physical machine for that matter).
 
-![docker-machine-banner](https://www.docker.com/sites/default/files/products/docker_machine.png)
+![docker-machine-banner](./media/docker_machine.png?raw=true)
 
 ## docker-machine
 People have been using docker for a while, and there's a general consensus that hosting docker on physical hardware is NOT a good idea. This is mostly because you lose security, flexibility, ease of development, and the ability to reason about the environment that's hosting docker. The only benefit is performance. So it's going to depend on what your application is, but I'm going say that about 95% of the time you're going to want to use a VM to host your docker daemon. This has become such an overwhelming opinion that Docker has canonized their own way of hosting docker containers, and it's GREAT. It's called docker-machine.

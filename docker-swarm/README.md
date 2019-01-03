@@ -1,4 +1,4 @@
-![docker-swarm-banner](https://www.docker.com/sites/default/files/products/swarm.png)
+![docker-swarm-banner](../media/swarm.png?raw=true)
 
 # docker-swarm
 *Note: before reading this you should read the talk on [docker-compose](../docker-compose/README.md), first.*
